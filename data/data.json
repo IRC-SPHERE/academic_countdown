@@ -95,12 +95,12 @@
 		"area": "Machine Learning",
 		"conference_dates":
 		{
-			"start": "09/10/2018",
-			"end": "09/14/2018"
+			"start": "09/16/2019",
+			"end": "09/20/2019"
 		},
 		"deadline": "04/12/2018 23:59 UTC-12",
-		"link": "http://www.ecmlpkdd2018.org/",
-		"location": "Dublin, Ireland"
+		"link": "http://www.ecmlpkdd2019.org/",
+		"location": "Würzburg, Germany"
 	},
 	{
 		"venue": "NIPS",
@@ -142,11 +142,11 @@
 	{
 		"venue": "ICML",
 		"area": "Machine Learning",
-		"deadline": "1/18/2018 23:59 UTC",
+		"deadline": "1/18/2019 23:59 UTC",
 		"conference_dates":
 		{
-			"start": "06/10/2018",
-			"end": "06/15/2018"
+			"start": "06/10/2019",
+			"end": "06/15/2019"
 		},
 		"link": "http://icml.cc",
 		"location": "Long Beach, CA, USA"
@@ -157,11 +157,11 @@
 		"deadline": "2/11/2018 23:59 UTC-8",
 		"conference_dates":
 		{
-			"start": "08/19/2018",
-			"end": "08/23/2018"
+			"start": "08/3/2019",
+			"end": "08/7/2019"
 		},
-		"link": "http://www.kdd.org",
-		"location": "London, UK"
+		"link": "http://www.kdd.org/kdd2019",
+		"location": "Anchorage, Alaska - USA"
 	},
 	{
 		"venue": "UAI",
@@ -178,14 +178,14 @@
 	{
 		"venue": "CVPR",
 		"area": "Computer Vision",
-		"deadline": "11/15/2017 1:00 UTC",
+		"deadline": "11/16/2018 23:59 PST",
 		"conference_dates":
 		{
-			"start": "06/18/2018",
-			"end": "06/22/2018"
+			"start": "06/16/2019",
+			"end": "06/21/2019"
 		},
-		"link": "http://cvpr2018.thecvf.com/",
-		"location": "Salt Lake City, Utah"
+		"link": "http://cvpr2019.thecvf.com/",
+		"location": "Long Beach, CA, USA"
 	},
 	{
 		"venue": "IDA",
