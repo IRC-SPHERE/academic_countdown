@@ -206,13 +206,13 @@
 	{
 		"venue": "UAI",
 		"area": "Machine Learning",
-		"deadline": "2/21/2020 04:59 GMT",
+		"deadline": "2/19/2021 23:59 UTC",
 		"link": "http://auai.org/",
-		"location": "Toronto, Canada",
+		"location": "Virtual Only",
 		"conference_dates":
 		{
-			"start": "07/3/2020",
-			"end": "07/6/2020"
+			"start": "07/27/2021",
+			"end":   "07/30/2021"
 		}
 	},
 	{
