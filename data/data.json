@@ -167,7 +167,7 @@
 		"venue": "IJCAI",
 		"area": "AI",
 		"abstract_deadline": "01/13/2021 23:59 UTC-12",
-		"deadline": "01/20/2020 23:59 UTC-12",
+		"deadline": "01/20/2021 23:59 UTC-12",
 		"conference_dates":
 		{
 			"start": "08/21/2021",
@@ -179,14 +179,15 @@
 	{
 		"venue": "ICML",
 		"area": "Machine Learning",
-		"deadline": "2/07/2020 11:59 GMT",
+		"abstract_deadline": "01/28/2021 23:59 UTC-12",
+		"deadline": "2/04/2021 23:59 UTC-12",
 		"conference_dates":
 		{
-			"start": "07/12/2020",
-			"end": "07/18/2020"
+			"start": "07/18/2021",
+			"end": "07/24/2021"
 		},
 		"link": "http://icml.cc",
-		"location": "Vienna, Austria"
+		"location": "Virtual Only"
 	},
 	{
 		"venue": "KDD",
