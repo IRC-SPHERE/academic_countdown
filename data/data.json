@@ -192,16 +192,16 @@
 	{
 		"venue": "KDD",
 		"area": "Data Mining",
-		"deadline": "2/14/2020 10:59 GMT",
+		"deadline": "2/8/2021 10:59 GMT",
 		"conference_dates":
 		{
-			"start": "08/22/2020",
-			"end": "08/27/2020"
+			"start": "08/14/2021",
+			"end": "08/18/2021"
 		},
-		"notification": "",
-		"camera_ready": "",
-		"link": "http://www.kdd.org/kdd2020",
-		"location": "San Diego, California, USA"
+		"notification": "5/17/2021 10:59 GMT",
+		"camera_ready": "6/17/2021 10:59 GMT",
+		"link": "http://www.kdd.org",
+		"location": "Singapore"
 	},
 	{
 		"venue": "UAI",
