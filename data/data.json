@@ -166,14 +166,15 @@
 	{
 		"venue": "IJCAI",
 		"area": "AI",
-		"deadline": "1/21/2020 23:59 UTC-12",
+		"abstract_deadline": "01/13/2021 23:59 UTC-12",
+		"deadline": "01/20/2020 23:59 UTC-12",
 		"conference_dates":
 		{
-			"start": "07/11/2020",
-			"end": "07/17/2020"
+			"start": "08/21/2021",
+			"end":   "08/26/2021"
 		},
 		"link": "https://www.ijcai.org/",
-		"location": "Yokohama, Japan"
+		"location": "Montreal, Canada"
 	},
 	{
 		"venue": "ICML",
