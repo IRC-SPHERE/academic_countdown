@@ -126,16 +126,16 @@
 		"link": "http://www.acml-conf.org/2018/"
 	},
 	{
-		"venue": "ECML-PKDD",
+		"venue": "ECML-PKDD (journal track)",
 		"area": "Machine Learning",
 		"conference_dates":
 		{
-			"start": "09/14/2020",
-			"end": "09/18/2020"
+			"start": "09/13/2021",
+			"end": "09/17/2021"
 		},
-		"deadline": "04/02/2020 23:59 UTC-12",
+		"deadline": "01/31/2021 23:59 UTC+1",
 		"link": "http://www.ecmlpkdd.org/",
-		"location": "Ghent, Belgium"
+		"location": "Bilbao, Basque Country (Spain)"
 	},
 	{
 		"venue": "NeurIPS",
