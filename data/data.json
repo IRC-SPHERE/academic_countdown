@@ -58,6 +58,20 @@
     "location": "Long Beach, CA, USA"
   },
   {
+    "venue": "DSAA",
+    "venue_long": "International Conference on Data Science and Advanced Analytics",
+    "area": "Statistics, CS, Data Analytics",
+    "link": "https://dsaa.co/",
+    "location": "Porto, Portugal",
+    "deadline": "05/23/2021",
+    "notification": "07/25/2021",
+    "camera_ready": "08/08/2021",
+    "conference_dates": {
+      "start": "10/06/2021",
+      "end": "10/09/2021"
+    }
+  },
+  {
     "venue": "ECAI",
     "venue_long": "European Conference on Artificial Intelligence",
     "area": "Artificial Intelligence",
