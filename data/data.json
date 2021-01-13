@@ -1,109 +1,11 @@
 [
   {
-    "venue": "MLHC",
-    "venue_long": "Machine Learning for Healthcare",
-    "link": "https://www.mlforhc.org/",
-    "location": "Virtual and Hybrid",
-    "deadline": "3/19/2021 17:00 EDT",
-    "conference_dates": {
-      "start": "08/06/2021",
-      "end": "08/7/2021"
-    }
-  },
-  {
-    "venue": "SDM",
-    "venue_long": "SIAM International Conference on Data Mining",
-    "area": "Data Mining",
-    "abstract_deadline": "10/05/2018 23:59 UTC-8",
-    "deadline": "10/12/2018 23:59 UTC-8",
-    "conference_dates": {
-      "start": "05/02/2019",
-      "end": "05/04/2019"
-    },
-    "link": "https://www.siam.org/Conferences/CM/Main/sdm19",
-    "location": "Calgary, Alberta, Canada"
-  },
-  {
-    "venue": "ICDM",
-    "venue_long": "IEEE International Conference on Data Mining",
-    "area": "Data Mining",
-    "deadline": "06/05/2019 23:59 UTC-7",
-    "conference_dates": {
-      "start": "11/08/2019",
-      "end": "11/11/2018"
-    },
-    "notification": "08/08/2019",
-    "camera_ready": "09/08/2019",
-    "link": "http://icdm2019.bigke.org/",
-    "location": "Beijing, China",
-    "format": "10 pages, IEEE 2-column format, inc. bibliography and appendices"
-  },
-  {
-    "venue": "WSDM",
-    "venue_long": "ACM International Conference on Web Search and Data Mining",
-    "area": "Data Mining",
-    "abstract_deadline": "08/08/2018 23:59 UTC-8",
-    "deadline": "08/15/2018 23:59 UTC-8",
-    "conference_dates": {
-      "start": "02/11/2019",
-      "end": "02/15/2019"
-    },
-    "notification": "10/24/2019",
-    "link": "http://www.wsdm-conference.org/2019/",
-    "location": "Melbourne, Australia"
-  },
-  {
     "venue": "AAAI",
     "area": "AI",
     "abstract_deadline": "08/30/2019 23:59 UTC-10",
     "deadline": "09/05/2019 23:59 UTC-10",
     "link": "https://aaai.org/Conferences/AAAI-20/",
     "location": "New York, USA"
-  },
-  {
-    "venue": "ICLR",
-    "venue_long": "International Conference on Learning Representations",
-    "area": "Deep Learning",
-    "abstract_deadline": "09/28/2020 08:00 UTC-7",
-    "deadline": "10/02/2020 08:00 UTC-7",
-    "link": "http://www.iclr.cc/",
-    "location": "Vienna, Austria"
-  },
-  {
-    "venue": "AISTATS",
-    "area": "Machine Learning",
-    "abstract_deadline": "10/08/2020 08:00 UTC-7",
-    "deadline": "10/15/2020 08:00 UTC-7",
-    "conference_dates": {
-      "start": "04/13/2021",
-      "end": "04/15/2021"
-    },
-    "link": "http://www.aistats.org",
-    "location": "San Diego, California, USA"
-  },
-  {
-    "venue": "ESANN",
-    "venue_long": "European Symposium on Artificial Neural Networks",
-    "area": "Machine Learning",
-    "deadline": "11/19/2018 23:59",
-    "conference_dates": {
-      "start": "04/24/2019",
-      "end": "04/26/2019"
-    },
-    "link": "https://www.elen.ucl.ac.be/esann/",
-    "location": "Bruges, Belgium"
-  },
-  {
-    "venue": "SPARS",
-    "venue_long": "Signal Processing with Adaptive Sparse Structured Representations",
-    "area": "Signal Processing; Sparsity",
-    "deadline": "04/01/2018",
-    "conference_dates": {
-      "start": "07/01/2019",
-      "end": "07/04/2019"
-    },
-    "link": "http://www.spars-workshop.org/en/index.html",
-    "location": "Toulouse, France"
   },
   {
     "venue": "ACML",
@@ -117,99 +19,16 @@
     "link": "http://www.acml-conf.org/2018/"
   },
   {
-    "venue": "ECML-PKDD (journal track)",
+    "venue": "AISTATS",
     "area": "Machine Learning",
+    "abstract_deadline": "10/08/2020 08:00 UTC-7",
+    "deadline": "10/15/2020 08:00 UTC-7",
     "conference_dates": {
-      "start": "09/13/2021",
-      "end": "09/17/2021"
+      "start": "04/13/2021",
+      "end": "04/15/2021"
     },
-    "deadline": "01/31/2021 23:59 UTC+1",
-    "link": "http://www.ecmlpkdd.org/",
-    "location": "Bilbao, Basque Country (Spain)"
-  },
-  {
-    "venue": "NeurIPS",
-    "area": "Machine Learning",
-    "abstract_deadline": "05/5/2020 13:00 UTC-7",
-    "deadline": "05/12/2020 13:00 UTC-7",
-    "conference_dates": {
-      "start": "12/6/2020",
-      "end": "12/12/2020"
-    },
-    "notification": "09/04/2019",
-    "link": "https://nips.cc/",
-    "location": "Vancouver CANADA"
-  },
-  {
-    "venue": "MLSP",
-    "venue_long": "Machine Learning for Signal Processing",
-    "deadline": "6/5/2019 23:59:59 UTC",
-    "conference_dates": {
-      "start": "10/13/2019",
-      "end": "10/16/2019"
-    },
-    "link": "https://www.ieeemlsp.cc/",
-    "location": "Aalborg, Denmark"
-  },
-  {
-    "venue": "IJCAI",
-    "area": "AI",
-    "abstract_deadline": "01/13/2021 23:59 UTC-12",
-    "deadline": "01/20/2021 23:59 UTC-12",
-    "conference_dates": {
-      "start": "08/21/2021",
-      "end": "08/26/2021"
-    },
-    "link": "https://www.ijcai.org/",
-    "location": "Montreal, Canada"
-  },
-  {
-    "venue": "ICML",
-    "area": "Machine Learning",
-    "abstract_deadline": "01/28/2021 23:59 UTC-12",
-    "deadline": "2/04/2021 23:59 UTC-12",
-    "conference_dates": {
-      "start": "07/18/2021",
-      "end": "07/24/2021"
-    },
-    "link": "http://icml.cc",
-    "location": "Virtual Only"
-  },
-  {
-    "venue": "KDD",
-    "area": "Data Mining",
-    "deadline": "2/8/2021 10:59 GMT",
-    "conference_dates": {
-      "start": "08/14/2021",
-      "end": "08/18/2021"
-    },
-    "notification": "5/17/2021 10:59 GMT",
-    "camera_ready": "6/17/2021 10:59 GMT",
-    "link": "http://www.kdd.org",
-    "location": "Singapore"
-  },
-  {
-    "venue": "UAI",
-    "area": "Machine Learning",
-    "deadline": "2/19/2021 23:59 UTC",
-    "link": "http://auai.org/",
-    "location": "Virtual Only",
-    "conference_dates": {
-      "start": "07/27/2021",
-      "end": "07/30/2021"
-    }
-  },
-  {
-    "venue": "CVPR",
-    "venue_long": "IEEE Conference on Computer Vision and Pattern Recognition",
-    "area": "Computer Vision",
-    "deadline": "11/16/2018 23:59 PST",
-    "conference_dates": {
-      "start": "06/16/2019",
-      "end": "06/21/2019"
-    },
-    "link": "http://cvpr2019.thecvf.com/",
-    "location": "Long Beach, CA, USA"
+    "link": "http://www.aistats.org",
+    "location": "San Diego, California, USA"
   },
   {
     "venue": "CIKM",
@@ -227,18 +46,16 @@
     }
   },
   {
-    "venue": "IDA",
-    "venue_long": "Symposium on Intelligent Data Analysis",
-    "area": "Data Mining",
-    "link": "https://ida2020.org/",
-    "location": "Bodenseeforum, Germany",
-    "deadline": "11/22/2019 23:59 UTC-12",
-    "notification": "01/19/2020",
-    "camera_ready": "02/17/2020",
+    "venue": "CVPR",
+    "venue_long": "IEEE Conference on Computer Vision and Pattern Recognition",
+    "area": "Computer Vision",
+    "deadline": "11/16/2018 23:59 PST",
     "conference_dates": {
-      "start": "04/27/2020",
-      "end": "04/29/2020"
-    }
+      "start": "06/16/2019",
+      "end": "06/21/2019"
+    },
+    "link": "http://cvpr2019.thecvf.com/",
+    "location": "Long Beach, CA, USA"
   },
   {
     "venue": "ECAI",
@@ -254,5 +71,188 @@
       "start": "08/28/2020",
       "end": "09/2/2020"
     }
+  },
+  {
+    "venue": "ECML-PKDD (journal track)",
+    "area": "Machine Learning",
+    "conference_dates": {
+      "start": "09/13/2021",
+      "end": "09/17/2021"
+    },
+    "deadline": "01/31/2021 23:59 UTC+1",
+    "link": "http://www.ecmlpkdd.org/",
+    "location": "Bilbao, Basque Country (Spain)"
+  },
+  {
+    "venue": "ESANN",
+    "venue_long": "European Symposium on Artificial Neural Networks",
+    "area": "Machine Learning",
+    "deadline": "11/19/2018 23:59",
+    "conference_dates": {
+      "start": "04/24/2019",
+      "end": "04/26/2019"
+    },
+    "link": "https://www.elen.ucl.ac.be/esann/",
+    "location": "Bruges, Belgium"
+  },
+  {
+    "venue": "ICDM",
+    "venue_long": "IEEE International Conference on Data Mining",
+    "area": "Data Mining",
+    "deadline": "06/05/2019 23:59 UTC-7",
+    "conference_dates": {
+      "start": "11/08/2019",
+      "end": "11/11/2018"
+    },
+    "notification": "08/08/2019",
+    "camera_ready": "09/08/2019",
+    "link": "http://icdm2019.bigke.org/",
+    "location": "Beijing, China",
+    "format": "10 pages, IEEE 2-column format, inc. bibliography and appendices"
+  },
+  {
+    "venue": "ICLR",
+    "venue_long": "International Conference on Learning Representations",
+    "area": "Deep Learning",
+    "abstract_deadline": "09/28/2020 08:00 UTC-7",
+    "deadline": "10/02/2020 08:00 UTC-7",
+    "link": "http://www.iclr.cc/",
+    "location": "Vienna, Austria"
+  },
+  {
+    "venue": "ICML",
+    "area": "Machine Learning",
+    "abstract_deadline": "01/28/2021 23:59 UTC-12",
+    "deadline": "2/04/2021 23:59 UTC-12",
+    "conference_dates": {
+      "start": "07/18/2021",
+      "end": "07/24/2021"
+    },
+    "link": "http://icml.cc",
+    "location": "Virtual Only"
+  },
+  {
+    "venue": "IDA",
+    "venue_long": "Symposium on Intelligent Data Analysis",
+    "area": "Data Mining",
+    "link": "https://ida2020.org/",
+    "location": "Bodenseeforum, Germany",
+    "deadline": "11/22/2019 23:59 UTC-12",
+    "notification": "01/19/2020",
+    "camera_ready": "02/17/2020",
+    "conference_dates": {
+      "start": "04/27/2020",
+      "end": "04/29/2020"
+    }
+  },
+  {
+    "venue": "IJCAI",
+    "area": "AI",
+    "abstract_deadline": "01/13/2021 23:59 UTC-12",
+    "deadline": "01/20/2021 23:59 UTC-12",
+    "conference_dates": {
+      "start": "08/21/2021",
+      "end": "08/26/2021"
+    },
+    "link": "https://www.ijcai.org/",
+    "location": "Montreal, Canada"
+  },
+  {
+    "venue": "KDD",
+    "area": "Data Mining",
+    "deadline": "2/8/2021 10:59 GMT",
+    "conference_dates": {
+      "start": "08/14/2021",
+      "end": "08/18/2021"
+    },
+    "notification": "5/17/2021 10:59 GMT",
+    "camera_ready": "6/17/2021 10:59 GMT",
+    "link": "http://www.kdd.org",
+    "location": "Singapore"
+  },
+  {
+    "venue": "MLHC",
+    "venue_long": "Machine Learning for Healthcare",
+    "link": "https://www.mlforhc.org/",
+    "location": "Virtual and Hybrid",
+    "deadline": "3/19/2021 17:00 EDT",
+    "conference_dates": {
+      "start": "08/06/2021",
+      "end": "08/7/2021"
+    }
+  },
+  {
+    "venue": "MLSP",
+    "venue_long": "Machine Learning for Signal Processing",
+    "deadline": "6/5/2019 23:59:59 UTC",
+    "conference_dates": {
+      "start": "10/13/2019",
+      "end": "10/16/2019"
+    },
+    "link": "https://www.ieeemlsp.cc/",
+    "location": "Aalborg, Denmark"
+  },
+  {
+    "venue": "NeurIPS",
+    "area": "Machine Learning",
+    "abstract_deadline": "05/5/2020 13:00 UTC-7",
+    "deadline": "05/12/2020 13:00 UTC-7",
+    "conference_dates": {
+      "start": "12/6/2020",
+      "end": "12/12/2020"
+    },
+    "notification": "09/04/2019",
+    "link": "https://nips.cc/",
+    "location": "Vancouver CANADA"
+  },
+  {
+    "venue": "SDM",
+    "venue_long": "SIAM International Conference on Data Mining",
+    "area": "Data Mining",
+    "abstract_deadline": "10/05/2018 23:59 UTC-8",
+    "deadline": "10/12/2018 23:59 UTC-8",
+    "conference_dates": {
+      "start": "05/02/2019",
+      "end": "05/04/2019"
+    },
+    "link": "https://www.siam.org/Conferences/CM/Main/sdm19",
+    "location": "Calgary, Alberta, Canada"
+  },
+  {
+    "venue": "SPARS",
+    "venue_long": "Signal Processing with Adaptive Sparse Structured Representations",
+    "area": "Signal Processing; Sparsity",
+    "deadline": "04/01/2018",
+    "conference_dates": {
+      "start": "07/01/2019",
+      "end": "07/04/2019"
+    },
+    "link": "http://www.spars-workshop.org/en/index.html",
+    "location": "Toulouse, France"
+  },
+  {
+    "venue": "UAI",
+    "area": "Machine Learning",
+    "deadline": "2/19/2021 23:59 UTC",
+    "link": "http://auai.org/",
+    "location": "Virtual Only",
+    "conference_dates": {
+      "start": "07/27/2021",
+      "end": "07/30/2021"
+    }
+  },
+  {
+    "venue": "WSDM",
+    "venue_long": "ACM International Conference on Web Search and Data Mining",
+    "area": "Data Mining",
+    "abstract_deadline": "08/08/2018 23:59 UTC-8",
+    "deadline": "08/15/2018 23:59 UTC-8",
+    "conference_dates": {
+      "start": "02/11/2019",
+      "end": "02/15/2019"
+    },
+    "notification": "10/24/2019",
+    "link": "http://www.wsdm-conference.org/2019/",
+    "location": "Melbourne, Australia"
   }
 ]
